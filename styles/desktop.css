@@ -77,4 +77,6 @@ th {
 tr:nth-child(odd) {
   background-color: #ccc;
 }
-/* Form Styling Needs Adding */
+img {
+  aspect-ratio: auto 640 / 360;
+}
